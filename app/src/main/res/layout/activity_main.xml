@@ -19,7 +19,7 @@
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
                 android:scaleType="fitXY"
-                android:src="@drawable/pixel_google" />
+                android:src="@drawable/iphonex" />
 
             <TextView
                 style="@style/TextContent.Small.White"
@@ -124,8 +124,8 @@
                 android:layout_width="56dp"
                 android:layout_height="56dp"
                 android:layout_centerVertical="true"
-                android:layout_marginRight="16dp"
-                android:src="@drawable/photo_2" />
+                android:layout_marginEnd="16dp"
+                android:src="@drawable/photo_dhito" />
 
             <TextView
                 style="@style/TextContent"
